@@ -1,10 +1,4 @@
-# ArtifactsSim.github.io
-圣遗物强化模拟器Demo
+# ArtiUpgSim
+原神圣遗物强化模拟器，由[DioMao](https://github.com/DioMao)制作，[点击访问原项目](https://github.com/DioMao/genshin_ArtifactsUpgradeSim_vue)
 
-源项目：
-
-https://github.com/DioMao/genshin_ArtifactsUpgradeSim_vue
-
-国内Demo路线：
-
-https://juanweimao.gitee.io/artifacts_sim_demo
+整了一个在线版本方便随时访问（）
